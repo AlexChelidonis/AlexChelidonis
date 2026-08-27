@@ -32,24 +32,6 @@ Right now I'm building a full-stack appointment booking platform for psychology 
 
 ---
 
-## Projects
-
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[Psychology Booking Platform](https://github.com/AlexChelidonis/REPO-NAME)** | Appointment system for psychology practices. Practitioners publish their availability, clients book against it, and the scheduler enforces the rules so two people can't claim the same slot. | `Java` `SQL` `JavaScript` |
-| **[Face Recognition App](https://github.com/AlexChelidonis/Face-Recognition-App-with-Python-)** | Recognises known faces from a webcam feed and enrolls unknown ones on the spot — captures 20 grayscale samples per new subject and retrains without restarting. | `Python` |
-| **[Java Calculator](https://github.com/AlexChelidonis/Culculator-using-Java)** | Desktop calculator built on a small expression evaluator behind a Swing interface. | `Java` |
-
-<!--
-  ADD A PROJECT: copy this row into the table above and fill in the four fields.
-  Lead with what it does for a user, not what it's built with — the Stack column covers that.
-  If a project is deployed, put the demo link right in the description:  ([live demo](https://...))
-
-| **[Project Name](https://github.com/AlexChelidonis/repo-name)** | One sentence on what it does. | `Java` `Docker` |
--->
-
----
-
 ## Contributions
 
 <!--
