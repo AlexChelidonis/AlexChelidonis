@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 52" width="150" height="52" role="img" aria-label="Email">
+  <title>Email</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0F1C"/>
+      <stop offset="55%" stop-color="#0E1626"/>
+      <stop offset="100%" stop-color="#131D30"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#E8912D" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#E8912D" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.1" fill="#22304A"/>
+    </pattern>
+    <style>
+      .sans { font-family: 'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif; }
+      .mono { font-family: ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace; }
+    </style>
+  </defs>
+  <rect x="0.7" y="0.7" width="148.6" height="50.6" rx="13" fill="#0D1626" stroke="#2C3B57" stroke-width="1.4"/>
+  <rect x="22" y="17" width="24" height="18" rx="4" fill="none" stroke="#F5B247" stroke-width="1.7"/>
+  <path d="M22 21 l12 8.5 l12 -8.5" fill="none" stroke="#F5B247" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="91" y="32" class="sans" font-size="16" font-weight="600" fill="#B8C6DA" text-anchor="middle">Email</text>
+</svg>
